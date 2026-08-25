@@ -12,7 +12,7 @@ Currently completing a **Level 3 Data Technician bootcamp** with LeepTalent — 
 
 | Repository | Focus | What it demonstrates |
 |---|---|---|
-| **[Excel-report](https://github.com/gmrxowk91-wq/Excel-report)** | Excel analysis | Structured tables, `SUMIF`-family conditional aggregation, `SWITCH` banding, PivotTables across four dimensions, PivotCharts on retail and bike sales data |
+| **[Excel-report](https://github.com/gmrxowk91-wq/Excel-report)** | Excel analysis | Structured tables, `AVERAGEIF` conditional aggregation, `SWITCH(TRUE, …)` banding, PivotTables across four dimensions, PivotCharts on retail and bike sales data |
 | **[SQL-report](https://github.com/gmrxowk91-wq/SQL-report)** | Databases & PostgreSQL | ERD design, all six join types, retail schema with a resolved many-to-many, ~20 queries including correlated subqueries — and fault-finding on deliberately broken SQL |
 | **[Tableau-report](https://github.com/gmrxowk91-wq/Tableau-report)** | Tableau dashboards | Two published dashboards on global health and Spotify audio features — Top N filters, dashboard-level filtering, Percentage-of-Total table calculations |
 | **[Power-BI-report](https://github.com/gmrxowk91-wq/Power-BI-report)** | Power BI | Power Query transformation, a seven-table semantic model, DAX measures, slicers and hierarchy drill-down, published to Power BI Service (PL-300 and DP-900 labs) |
@@ -79,4 +79,4 @@ Seeking an entry-level **Data Analyst**, **Data Technician**, **Junior Reporting
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/keehoon-ryu) · [gmrxowk91@gmail.com](mailto:gmrxowk91@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/keehoon-ryu-2371861ba/) · [gmrxowk91@gmail.com](mailto:gmrxowk91@gmail.com)
