@@ -79,4 +79,4 @@ Seeking an entry-level **Data Analyst**, **Data Technician**, **Junior Reporting
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/keehoon-ryu-2371861ba/) · [gmrxowk91@gmail.com](mailto:gmrxowk91@gmail.com)
+[Portfolio site](https://sites.google.com/view/keehoon-ryu-data-portfolio) · [LinkedIn](https://www.linkedin.com/in/keehoon-ryu-2371861ba/) · [gmrxowk91@gmail.com](mailto:gmrxowk91@gmail.com)
